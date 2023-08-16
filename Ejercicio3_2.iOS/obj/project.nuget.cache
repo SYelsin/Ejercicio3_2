@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5Fzrk1ueYntmOKn/0KWL1y5flfAf7C+Y//tpborSxMJSIacHwrMgzbO9InaVvxXJkZ7Z15pL4FK+BrnMyeDXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yelsi\\source\\repos\\Ejercicio3_2\\Ejercicio3_2.iOS\\Ejercicio3_2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yelsi\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\rg.plugins.popup\\2.1.0\\rg.plugins.popup.2.1.0.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\sqlite-net-pcl\\1.4.118\\sqlite-net-pcl.1.4.118.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\sqlitenetextensions\\2.1.0\\sqlitenetextensions.2.1.0.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.5\\sqlitepclraw.bundle_green.1.1.5.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\sqlitepclraw.core\\1.1.5\\sqlitepclraw.core.1.1.5.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.5\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.5.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\xam.plugin.media\\6.0.2\\xam.plugin.media.6.0.2.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\yelsi\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Essentials de 1.7.3 a 1.7.0. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n Ejercicio3_2.iOS -> Ejercicio3_2 -> Xam.Plugin.Media 6.0.2 -> Xamarin.Essentials (>= 1.7.3) \r\n Ejercicio3_2.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
